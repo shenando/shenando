@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **node.js, react.js**
 
-- 👨‍💻 All of my projects are available at [shenandoahgrace.netlify.app](shenandoahgrace.netlify.app)
+- 👨‍💻 All of my projects are available at [shenandoahgrace.com](https://shenandoahgrace.netlify.app/)
 
 - 💬 Ask me about **javascript**
 
